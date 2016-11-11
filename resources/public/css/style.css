@@ -1,0 +1,29 @@
+/* some style */
+body, html
+{
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background: #333;
+  color: white;
+  font-family: monospace;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+}
+/*
+p {
+  margin: 0;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+}
+
+svg text {
+  font-family: monospace;
+  font-size: 14px;
+}*/
